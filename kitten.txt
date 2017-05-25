@@ -1,6 +1,8 @@
-master edit here's some text. and some changes here.
+thursday master edit here's some text. and some changes here.
 these are changes I'm not ready to commit yet.
 checking out the git diff command
 edits for branching
 and more edits for branching
 third line of text re: branching
+use tab to auto-complete
+use q to bail out of issues in the log output
