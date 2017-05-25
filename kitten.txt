@@ -1,2 +1,3 @@
 here's some text. and some changes here.
 these are changes I'm not ready to commit yet.
+checking out the git diff command
